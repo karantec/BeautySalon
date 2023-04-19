@@ -11,7 +11,7 @@ function BrowseEvents() {
                     <p className="text-gray-500 mt-2">{event.date}</p>
                     <p className="text-gray-700 mt-2">{event.description}</p>
                     <button className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded mt-4">
-                        Buy Tickets
+                        Buy Ticket
                     </button>
                 </div>
             ))}
