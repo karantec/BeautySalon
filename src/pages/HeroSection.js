@@ -14,12 +14,10 @@ export default function HeroSection() {
             </div>
             <div className="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
                 <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl md:text-6xl">
-                    Book Your Next Event Today
+                    Experience Unforgettable Moments: Book Your Next Event Today!
                 </h1>
                 <p className="mt-6 max-w-3xl text-xl text-gray-300">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum,
-                    enim id facilisis congue, arcu enim vehicula sapien, id tristique felis risus
-                    nec lorem.
+                    Welcome to our event booking website, where your next unforgettable experience is just a few clicks away. Whether you're planning a wedding, corporate event, or celebration with friends, we've got you covered. Our easy-to-use platform allows you to browse and book a wide range of venues and vendors, customize your event to your unique vision, and enjoy seamless coordination from start to finish. Say goodbye to the stress of event planning and hello to a truly unforgettable experience. Book your next event with us today and let us help you make memories that will last a lifetime.
                 </p>
                 <div className="mt-12">
                     <a
