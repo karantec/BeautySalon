@@ -17,7 +17,7 @@ export default function HeroSection() {
                     Experience Unforgettable Moments: Book Your Next Event Today!
                 </h1>
                 <p className="mt-6 max-w-3xl text-xl text-gray-300">
-                    Book Memorable Experiences Today: Discover and Book Your Next Event with Ease on Our Platform - Your One-Stop Shop for Unforgettable Adventures.
+                    Book Memorable Experiences Today: Discover <span> and Book Your Next  Event with Ease on Our Platform - Your One-Stop Shop for Unforgettable Adventures.</span>
                 </p>
                 <div className="mt-12">
                     <a
