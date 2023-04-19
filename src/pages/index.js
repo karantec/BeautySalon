@@ -1,4 +1,4 @@
-import Head from 'next/head';
+ import Head from 'next/head';
 import Link from 'next/link';
 import { useState } from 'react';
 import BrowseEvents from './BrowseEvents';
@@ -7,13 +7,14 @@ import Contact from './Contact';
 import HeroSection from './HeroSection';
 import BookingPage from './Booking';
 import FeaturedEvent from './FeaturedEvent';
-
+import Mainpage from './Mainpage';
+import Gallery from './Gallery';
+import Body from './Body';
+import Nav from './Nav';
+import TestiMonials from './TestiMonials';
+import Footer from './Footer';
 const index = () => {
-  const [searchQuery, setSearchQuery] = useState('');
-
-  const handleSearch = (e) => {
-    setSearchQuery(e.target.value);
-  };
+ 
 
   return (
     <>
@@ -22,59 +23,29 @@ const index = () => {
         <meta name="description" content="Find and book events online" />
       </Head>
 
-      <div className="bg-gray-100 min-h-screen">
-        <nav className="bg-white shadow">
-          <div className="container mx-auto px-4">
-            <div className="flex justify-between items-center py-6">
-              <div>
-                <Link href="/">
-                  <span className="text-xl font-bold text-gray-800">Event Booking</span>
-                </Link>
-              </div>
-              <div>
-                <Link href="/login">
-                  <span className="text-gray-500 hover:text-gray-800 mr-4">Log in</span>
-                </Link>
-                <Link href="/signup">
-                  <span className="bg-blue-500 hover:bg-blue-700 text-white py-2 px-4 rounded">Sign up</span>
-                </Link>
-              </div>
-            </div>
-          </div>
-        </nav>
+      <Nav/>
         <HeroSection />
-        <div className="container mx-auto px-4 py-12">
-          <div className="flex justify-center items-center">
-            <div className="w-full max-w-lg">
-              <h1 className="text-4xl font-bold mb-4">Find and book events online</h1>
-              <form>
-                <input
-                  type="text"
-                  placeholder="Search events"
-                  className="bg-white focus:outline-none border border-gray-400 rounded-lg py-2 px-4 block w-full appearance-none leading-normal"
-                  value={searchQuery}
-                  onChange={handleSearch}
-                />
-              </form>
-            </div>
-          </div>
-        </div>
+        <Body/>
+        <Mainpage/>
         <CategoriesofEvent />
+        <Gallery/>
+        <TestiMonials/>
         {/*<FeaturedEvent />*/}
-        <BrowseEvents />
+        {/* <BrowseEvents /> */}
         <Contact />
+        <Footer/>
         {/* <BookingPage /> */}
-      </div>
-      <footer className="text-gray-600 body-font">
+      
+      {/* <footer className="text-gray-600 body-font">
         <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
-          <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+          <a href="/" className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
             <span className="ml-3 text-xl">Event Booking</span>
           </a>
           <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2023 Event Booking —
-            <a href="https://twitter.com/knyttneve" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@Event Booking</a>
+            <a  href="https://twitter.com/knyttneve" className="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@Event Booking</a>
           </p>
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
             <a className="text-gray-500">
@@ -101,7 +72,7 @@ const index = () => {
             </a>
           </span>
         </div>
-      </footer>
+      </footer> */}
     </>);
 }
 export default index;
