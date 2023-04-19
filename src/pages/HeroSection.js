@@ -1,0 +1,35 @@
+import Image from 'next/image';
+
+export default function HeroSection() {
+    return (
+        <div className="relative bg-gray-900">
+            <div className="absolute inset-0">
+                <Image
+                    className="w-full h-full object-cover"
+                    src="/hero-bg.jpg"
+                    alt="Hero Background"
+                    layout="fill"
+                />
+                <div className="absolute inset-0 bg-gray-900 opacity-75"></div>
+            </div>
+            <div className="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8">
+                <h1 className="text-4xl font-bold tracking-tight text-white sm:text-5xl md:text-6xl">
+                    Book Your Next Event Today
+                </h1>
+                <p className="mt-6 max-w-3xl text-xl text-gray-300">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent bibendum,
+                    enim id facilisis congue, arcu enim vehicula sapien, id tristique felis risus
+                    nec lorem.
+                </p>
+                <div className="mt-12">
+                    <a
+                        className="inline-block bg-white py-3 px-6 font-bold text-lg text-gray-900 rounded-full shadow-md hover:shadow-lg hover:bg-gray-50"
+                        href="/booking"
+                    >
+                        Book Now
+                    </a>
+                </div>
+            </div>
+        </div>
+    );
+}

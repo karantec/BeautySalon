@@ -1,23 +1,7 @@
 import React, { useState, useEffect } from 'react'
-import eventsData from './data/events'
+import { eventsData } from 'data/events'
 
 function BrowseEvents() {
-    const [events, setEvents] = useState([])
-
-    useEffect(() => {
-        async function fetchEventsData() {
-            try {
-                const res = await fetch('eventsData')
-                const data = await res.json()
-                setEvents(data)
-            } catch (error) {
-                console.error(error)
-            }
-        }
-
-        fetchEventsData()
-    }, [])
-
     return (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {eventsData.map((event, index) => (
