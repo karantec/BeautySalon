@@ -17,7 +17,7 @@ export default function HeroSection() {
                     Experience Unforgettable Moments: Book Your Next Event Today!
                 </h1>
                 <p className="mt-6 max-w-3xl text-xl text-gray-300">
-                    Welcome to our event booking website, where your next unforgettable experience is just a few clicks away. Whether you're planning a wedding, corporate event, or celebration with friends, we've got you covered. Our easy-to-use platform allows you to browse and book a wide range of venues and vendors, customize your event to your unique vision, and enjoy seamless coordination from start to finish. Say goodbye to the stress of event planning and hello to a truly unforgettable experience. Book your next event with us today and let us help you make memories that will last a lifetime.
+                    Book Memorable Experiences Today: Discover and Book Your Next Event with Ease on Our Platform - Your One-Stop Shop for Unforgettable Adventures.
                 </p>
                 <div className="mt-12">
                     <a
