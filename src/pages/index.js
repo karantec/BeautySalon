@@ -60,7 +60,7 @@ const index = () => {
           </div>
         </div>
         <CategoriesofEvent />
-        <FeaturedEvent />
+        {/*<FeaturedEvent />*/}
         <BrowseEvents />
         <Contact />
         {/* <BookingPage /> */}
