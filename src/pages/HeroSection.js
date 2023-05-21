@@ -20,7 +20,7 @@ export default function HeroSection() {
                     Book Memorable Experiences Today: Discover <span> and Book Your Next  Event with Ease on Our Platform - Your One-Stop Shop for Unforgettable Adventures.</span>
                 </p>
                 <div className="mt-12">
-                    <a
+                    <a  href="https://chat.whatsapp.com/JAZuZjBUhjnKvAiMkam7B8"
                         className="inline-block bg-white py-3 px-6 font-bold text-lg text-gray-900 rounded-full shadow-md hover:shadow-lg hover:bg-gray-50"
                         href="/booking"
                     >
