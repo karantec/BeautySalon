@@ -17,7 +17,7 @@ const index = () => {
   return (
     <>
       <Head>
-        <title>DayDream Planner - DD Planner</title>
+        <title>Staylon BeautyParlour - Staylon</title>
         <meta name="description" content="Find and book events online" />
       </Head>
 

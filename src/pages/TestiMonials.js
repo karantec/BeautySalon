@@ -13,7 +13,7 @@ const TestiMonials = () => {
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="block w-5 h-5 text-gray-400 mb-4" viewBox="0 0 975.036 975.036">
             <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
           </svg>
-          <p className="leading-relaxed mb-6 font-serif text-black">Thank you so much for for working around the clock for us and making this event so so mcuc memorable for two of us.The decor was exacltu how i imagined and i couldn't have asked for more perfectionist than this.</p>
+          <p className="leading-relaxed mb-6 font-serif text-black">I had an amazing experience at Staylon  Beauty Parlour! The staff was friendly and professional, and they truly understood my needs. The services they provided, from hair styling to facials, were top-notch. I left feeling rejuvenated and confident. I highly recommend Staylon Beauty Parlour</p>
           <a className="inline-flex items-center">
           </a>
         </div>
@@ -23,9 +23,7 @@ const TestiMonials = () => {
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="block w-5 h-5 text-gray-400 mb-4" viewBox="0 0 975.036 975.036">
             <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
           </svg>
-          <p className="leading-relaxed mb-6 font-serif text-black">Getting Rose on board for decor for our wedding was the best decision ever ! Right from the get go,she has been prompt to respond 
-          , She understood exaclty what i we wanted from a short conversation and deligently prepared a presentation with greate options for us to choose 
-          from.</p>
+          <p className="leading-relaxed mb-6 font-serif text-black">I've been going to Staylon Beauty Parlour for years, and I'm always impressed by their consistent quality. The staff is highly skilled and knowledgeable, and they use top-of-the-line products. Whether it's a haircut, manicure, or bridal makeup, they never disappoint. Staylon Beauty Parlour is my go-to place for all my beauty needs.</p>
          
         </div>
       </div>
@@ -34,9 +32,7 @@ const TestiMonials = () => {
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="block w-5 h-5 text-gray-400 mb-4" viewBox="0 0 975.036 975.036">
             <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
           </svg>
-          <p className="leading-relaxed mb-6 font-serif text-black">Event Booking  makes wedding look nice. We knew what you needed and gave you direction and ideas right away.
-          We went to the sport and helped you picture your big day over the phone after we saw it.Event booking knows  that planning a wedding is hard. We talked 
-          to  each other in an open way throughourt the process. Please feel safe.
+          <p className="leading-relaxed mb-6 font-serif text-black">I visited Staylon Beauty Parlour for the first time, and I was blown away by the level of service. The ambiance was relaxing, and the staff made me feel welcome. The facial I received was incredibly refreshing, and the results were noticeable. I'm grateful to have discovered such a fantastic beauty parlour in Bokaro
           </p>
          
         </div>
@@ -46,9 +42,7 @@ const TestiMonials = () => {
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="block w-5 h-5 text-gray-400 mb-4" viewBox="0 0 975.036 975.036">
             <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
           </svg>
-          <p className="leading-relaxed mb-6 font-serif text-black">We are thrilled that we decided to have a manager from Event Booking take care of the decor for the wedding.
-          From the very beginning , the manager has been extremely responsive  and prompt in her communication with us. She understand our vision for the decor right away  and went 
-          above and beyond to present ys with several great opinion to choose from.</p>
+          <p className="leading-relaxed mb-6 font-serif text-black">I had my wedding makeup done at Staylon Beauty Parlour, and I couldn't have asked for a better experience. The makeup artist was skilled and listened to my preferences. They created a stunning look that perfectly complemented my features and outfit. I received numerous compliments throughout the day, and I felt like a princess!</p>
          
         </div>
       </div>
@@ -57,9 +51,7 @@ const TestiMonials = () => {
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="block w-5 h-5 text-gray-400 mb-4" viewBox="0 0 975.036 975.036">
             <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
           </svg>
-          <p className="leading-relaxed mb-6 font-serif text-black">We were impressed by their efficient handling of the works  and they completed the job on time and
-          within our budget. The entire team did a fantastic job and we were thrilled with the final result . We never expected the decor ti be so amazing , We are greateful
-          to the entire team at Event Booking  for making our special day event more Unforgettable.</p>
+          <p className="leading-relaxed mb-6 font-serif text-black">Staylon Beauty Parlour is a hidden gem in Bokaro. I stumbled upon it by chance and was pleasantly surprised by the exceptional service. The ambiance is serene and relaxing, creating the perfect environment for self-care. The staff is highly skilled and attentive, ensuring that every visit is a delightful experience. Whether you need a haircut, a manicure, or a spa treatment, Staylon Beauty Parlour is the place to go.</p>
          
         </div>
       </div>
@@ -68,9 +60,7 @@ const TestiMonials = () => {
           <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="block w-5 h-5 text-gray-400 mb-4" viewBox="0 0 975.036 975.036">
             <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
           </svg>
-          <p className="leading-relaxed mb-6 font-serif text-black">I had a fantastic experience working within the event booking team for my engagement. Event Booking  and her team 
-          provided excellent decor options and executed them beautifully. Communication was effortless and efficient throughout the process. Their works was excellent , and I want to 
-          collaborate with them against in the near future. </p>
+          <p className="leading-relaxed mb-6 font-serif text-black">Staylon Beauty Parlour is my go-to place for skincare treatments. Their facials are absolutely divine. The estheticians are knowledgeable and passionate about what they do, and they customized the treatment to suit my skin type and concerns. After each visit, my skin feels refreshed, rejuvenated, and glowing. I can't recommend Staylon Beauty Parlour enough! </p>
          
         </div>
       </div>

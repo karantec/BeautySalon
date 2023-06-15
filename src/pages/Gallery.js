@@ -10,61 +10,61 @@ const Gallery = () => {
             <div className="flex flex-wrap w-1/2">
             <div className="md:p-2 p-1 w-1/2">
                 <img alt="gallery" className="w-full object-cover h-full object-center block"
-                 src="event1.jpeg" />
+                 src="https://content3.jdmagicbox.com/comp/bokaro/i3/9999p6542.6542.160523140006.u4i3/catalogue/staylon-beauty-and-spa-saloon-bokaro-sector-4-bokaro-beauty-parlours-for-acne-treatment-m0x3o98o1x.jpg"  height={250}/>
               </div>
               <div className="md:p-2 p-1 w-1/2">
                 <img alt="gallery" className="w-full object-cover h-full object-center block"
-                 src="event2.jpeg" />
+                 src="https://content3.jdmagicbox.com/comp/bokaro/i3/9999p6542.6542.160523140006.u4i3/catalogue/staylon-beauty-and-spa-saloon-bokaro-sector-4-bokaro-beauty-parlours-for-acne-treatment-e73ijaf4o4.jpg" height={250} />
               </div>
               <div className="md:p-2 p-1 w-1/2">
                 <img alt="gallery" className="w-full object-cover h-full object-center block"
-                 src="event3.avif"/>
+                 src="https://content.jdmagicbox.com/comp/bokaro/i3/9999p6542.6542.160523140006.u4i3/catalogue/staylon-beauty-and-spa-saloon-bokaro-sector-4-bokaro-beauty-spas-46fkloyxad.jpg"/>
               </div>
               <div className="md:p-2 p-1 w-1/2">
                 <img alt="gallery" className="w-full object-cover h-full object-center block"
-                 src="event5.jpeg" />
+                 src="https://content3.jdmagicbox.com/comp/bokaro/i3/9999p6542.6542.160523140006.u4i3/catalogue/staylon-beauty-and-spa-saloon-bokaro-sector-4-bokaro-beauty-parlours-for-acne-treatment-cb6z3e15vk.jpg" />
                  
               </div>
               <div className="md:p-2 p-1 w-1/2">
                 <img alt="gallery" className="w-full object-cover h-full object-center block"
-                 src="event6.jpg" />
+                 src="https://content.jdmagicbox.com/comp/bokaro/k3/9999p6542.6542.171216162134.m9k3/catalogue/cut-n-style-complete-family-salon-bokaro-sector-4-bokaro-beauty-salons-1b1mae4da6.jpg" />
               </div>
               <div className="md:p-2 p-1 w-1/2">
                 <img alt="gallery" className="w-full object-cover h-full object-center block"
-                 src="https://image.wedmegood.com/resized/540X/uploads/member/1823847/1680425468_image2820.jpg?crop=7,112,1266,712" />
+                 src="https://content3.jdmagicbox.com/comp/bokaro/i3/9999p6542.6542.160523140006.u4i3/catalogue/staylon-beauty-and-spa-saloon-bokaro-sector-4-bokaro-beauty-parlours-for-acne-treatment-xtlv77n2p1.jpg" />
               </div>
               <div className="md:p-2 p-1 w-1/2">
                 <img alt="gallery" className="w-full object-cover h-full object-center block" 
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp4JbMRLbruUojw2vi90G3DftR6-kxUt2zaDtK2mNvmj7XgR58PjKqXg_QGhb_2iY9Xok&usqp=CAU" />
+                src="https://content.jdmagicbox.com/comp/bokaro/i7/9999p6542.6542.170912123825.g7i7/catalogue/pro-salon-beauty-spa-bokaro-sector-4-bokaro-salons-5fgms50x2y.jpg" />
               </div>
               <div className="md:p-2 p-1 w-1/2">
-                <img alt="gallery" className="w-full object-cover h-full object-center block" src="https://img.freepik.com/free-photo/bunch-flowers-leaves-table_1304-4187.jpg?w=900&t=st=1681917597~exp=1681918197~hmac=8fc040d1fcb483b383d7cdf7aa11c688d2dcc3674c952075479f604bd7cafb2f/501x301" />
+                <img alt="gallery" className="w-full object-cover h-full object-center block" src="https://content.jdmagicbox.com/comp/surguja/e7/9999p7774.7774.180901124732.w3e7/catalogue/perfect-beauty-parlour-and-skin-care-center-surguja-beauty-parlours-1g84cn6glh.jpg" />
               </div>
               <div className="md:p-2 p-1 w-full">
-                <img alt="gallery" className="w-full h-full object-cover object-center block" src="https://img.freepik.com/free-photo/ritual-with-coconut-leaves-during-traditional-hindu-wedding-ceremony_8353-8909.jpg?w=900&t=st=1681917683~exp=1681918283~hmac=a8f407d0a33922eeb39c741ab04fee4cefb4c72086e8fefdb7c2d0774624945c/600x360" />
+                <img alt="gallery" className="w-full h-full object-cover object-center block" src="https://content3.jdmagicbox.com/comp/bokaro/n4/9999p6542.6542.171214181113.x9n4/catalogue/habibs-hair-and-beauty-bokaro-sector-3-bokaro-beauty-parlours-oocfy2l081.jpg" />
               </div>
             </div>
             <div className="flex flex-wrap w-1/2">
               <div className="md:p-2 p-1 w-full">
-                <img alt="gallery" className="w-full h-full object-cover object-center block" src="https://img.freepik.com/free-photo/front-view-friends-celebrating-new-year-s-eve-party_23-2148724218.jpg?w=900&t=st=1681917716~exp=1681918316~hmac=304a193e9a1358168368db9e03270e1537b35e1dd259055b8c585c4979ee0737/601x361" />
+                <img alt="gallery" className="w-full h-full object-cover object-center block" src="https://content.jdmagicbox.com/comp/hissar/n8/9999p1662.1662.180627090700.a5n8/catalogue/kiran-makeover-b-s-f-hisar-hissar-beauty-parlours-flthbc72hh.jpg" />
               </div>
               <div className="md:p-2 p-1 w-full">
                 <img alt="gallery" className="w-full h-full object-cover object-center block" src=
-                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYpd7eL0-PIg6pwIvcW7xKo62M5MFrSo1CwSvrrDtp34iRhSLx1ClrlhQpRz2YGpwsQ0&usqp=CAU" />
+                "https://content3.jdmagicbox.com/comp/bokaro/n4/9999p6542.6542.171214181113.x9n4/catalogue/habibs-hair-and-beauty-bokaro-sector-3-bokaro-beauty-parlours-vw5m403rw3.jpg" />
               </div>
 
               <div className="md:p-2 p-1 w-1/2">
-                <img alt="gallery" className="w-full object-cover h-full object-center block" src="https://media.weddingz.in/images/de8ecf6e1f1a8eb3b9ead1cb2da3bdd8/omg-nayatoli-ranchi.jpg" />
+                <img alt="gallery" className="w-full object-cover h-full object-center block" src="https://content.jdmagicbox.com/comp/bokaro/t3/9999p6542.6542.171001115006.h5t3/catalogue/the-salon-international-bokaro-steel-city-bokaro-salons-byvjzt2j4p.jpg" />
               </div>
               <div className="md:p-2 p-1 w-1/2">
-                <img alt="gallery" className="w-full object-cover h-full object-center block" src="https://qph.cf2.quoracdn.net/main-qimg-741cf7c70f10f4f21c9f0f4d514276c7-lq" />
+                <img alt="gallery" className="w-full object-cover h-full object-center block" src="https://img.freepik.com/free-photo/beautiful-woman-with-roses-hair_144627-16462.jpg?w=996&t=st=1686812991~exp=1686813591~hmac=b1624f898aa13d33049062f64df30b66b9f10ac196d463ec11a50a4a08391eaf" />
               </div>
               <div className="md:p-2 p-1 w-1/2">
-                <img alt="gallery" className="w-full object-cover h-full object-center block" src="https://img.freepik.com/free-photo/decorated-wedding-hall-with-candles-round-tables-centerpieces_8353-10057.jpg?w=900&t=st=1681917869~exp=1681918469~hmac=c2d79260da02c8e1ec1920981408fa06ea174a36a56da6ea2dbdca886ba2f877/503x303" />
+                <img alt="gallery" className="w-full object-cover h-full object-center block" src="https://img.freepik.com/free-photo/portrait-beautiful-fashion-woman-pretty-sexy-face-glamour-girl-posing-with-silver-accessor_186202-4328.jpg?w=740&t=st=1686812820~exp=1686813420~hmac=cc1ae97750f4c108902d6cb65374fab94fac82e32ff34f4633aef4fe1c03b41a" />
               </div>
               <div className="md:p-2 p-1 w-1/2">
                 <img alt="gallery" className="w-full object-cover h-full object-center block" 
-                src="https://media.bookeventz.com/441x272/html/bookeventz.com/images/restaurant-picture/kaveri-restaurant-gosaintola-ranchi.jpg" />
+                src="https://content.jdmagicbox.com/comp/bokaro/v9/9999p6542.6542.170113081932.p4v9/catalogue/pearl-hair-and-beauty-salon-bokaro-1elclzepf4.jpg" />
               </div>
               
             </div>

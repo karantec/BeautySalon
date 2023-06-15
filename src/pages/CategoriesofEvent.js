@@ -6,14 +6,14 @@ const CategoriesofEvent = () => {
         <>
       
             <div className="container mx-auto px-4 py-12">
-                <h2 className="text-2xl font-bold mb-4 text-center uppercase">Categories of events</h2>
+                <h2 className="text-2xl font-bold mb-4 text-center uppercase">Categories of Services</h2>
                 <div className="flex flex-wrap -mx-4 justify-around ">
                     <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 px-4 mb-8">
                         <div className="bg-white border rounded-lg overflow-hidden drop-shadow-xl  ">
-                            <img src="/wedding.jpg" alt="Category 1" className="w-full" />
+                            <img src="https://booksy.com/l/wp-content/uploads/2022/01/2274-e1641986301391-995x777.jpg" alt="Category 1" className="w-full" />
                             <div className="p-4 shadow-lg">
-                                <h3 className="text-lg font-bold mb-2 text-center">Wedding</h3>
-                                <p className='text-sm mb-3 font-serif'>We would love to help make your special day a truly unforgettable event. Our event booking services can provide everything you need to make your wedding dreams a reality.</p>
+                                <h3 className="text-lg font-bold mb-2 text-center">Hair Services</h3>
+                                <p className='text-sm mb-3 font-serif'>Beauty parlours offer various haircut options for both men and women. They have trained hairstylists who can provide advice on suitable hairstyles based on face shape, hair texture, and personal preferences.</p>
                                 <Link href="/events?category=1">
                                 <span className="text-blue-900    rounded mt-4 inline-block ">
                                       Learn More
@@ -27,10 +27,10 @@ const CategoriesofEvent = () => {
                     
                     <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 px-4 mb-8">
                         <div className="bg-white border rounded-lg overflow-hidden drop-shadow-xl">
-                            <img src="https://images.unsplash.com/photo-1515982200576-f29f11444503?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80" alt="Category 2" className="w-full" />
+                            <img src="https://content.jdmagicbox.com/comp/kurukshetra/s9/9999p1744.1744.180904030534.r9s9/catalogue/harman-beauty-parlour-and-skin-care-ladwa-kurukshetra-beauty-parlours-mfcs1gg5rc.jpg" alt="Category 2" className="w-full" />
                             <div className="p-4">
-                                <h3 className="text-lg font-bold mb-2 text-center " >Corporate Event</h3>
-                                <p className='text-sm mb-3 font-serif'>  We would be delighted to help you plan and execute a memorable event that reflects your company's style and brand. we have the expertise  to make your vision a reality.</p>
+                                <h3 className="text-lg font-bold mb-2 text-center " >Skin Care Services</h3>
+                                <p className='text-sm mb-3 font-serif'>  Skin care services are a vital component of beauty parlour offerings, focusing on improving and maintaining the health and appearance of the skin. Here's an overview of common skin care services provided at beauty parlours</p>
                                 <Link href="/events?category=2">
                                 <span className="text-blue-900    rounded mt-4 inline-block ">
                                         Learn More
@@ -42,10 +42,10 @@ const CategoriesofEvent = () => {
                     <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 px-4 mb-8">
                         <div className="bg-white border rounded-lg overflow-hidden drop-shadow-xl">
                       
-                            <img src="https://img.freepik.com/free-photo/friends-gathered-celebrate-new-years-party_329181-5710.jpg?w=900&t=st=1681918916~exp=1681919516~hmac=17d35922777bdd94b4a1bc7e16922f72715d60be20c391ca546185d1aca13c54" alt="Category 3" className="w-full" />
+                            <img src="https://cucumbabeautysalon.com/wp-content/uploads/2021/10/imahe-800-3.jpg" alt="Category 3" className="w-full" />
                             <div className="p-4">
-                                <h3 className="text-lg font-bold mb-2 text-center">Private Party</h3>
-                                <p className="text-sm mb-3 font-serif"> Thank you for considering our event booking services for your upcoming private party.  We would love to help you plan and execute a memorable event that reflects your personal style.</p>
+                                <h3 className="text-lg font-bold mb-2 text-center">Nail Care Services</h3>
+                                <p className="text-sm mb-3 font-serif"> Pedicures are similar to manicures but focus on the care and beautification of the feet and toenails. During a pedicure, the feet are soaked in warm water, exfoliated, and moisturized. The toenails are trimmed, shaped, and buffed, and the cuticles are groomed. </p>
                                 <Link href="/events?category=3">
                                 <span className="text-blue-900    rounded mt-4 inline-block ">
                                         Learn More
@@ -56,10 +56,10 @@ const CategoriesofEvent = () => {
                     </div>
                     <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 px-4 mb-8">
                         <div className="bg-white border rounded-lg overflow-hidden drop-shadow-xl">
-                            <img src="https://images.unsplash.com/photo-1549451371-64aa98a6f660?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZXZlbnRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Category 4" className="w-full" />
+                            <img src="https://5.imimg.com/data5/GI/HB/DI/SELLER-54443168/wedding-bridal-makeup-service-500x500.png" alt="Category 4" className="w-full" />
                             <div className="p-4">
-                                <h3 className="text-lg font-bold mb-2 text-center">Concert Party</h3>
-                                <p className="text-sm mb-3 font-serif">We would be delighted to help you plan and execute a memorable event that showcases your musical talent and entertains your guest impresses with our services
+                                <h3 className="text-lg font-bold mb-2 text-center">MakeUp Services</h3>
+                                <p className="text-sm mb-3 font-serif">Bridal makeup is one of the most sought-after makeup services. Beauty parlours offer specialized bridal makeup packages designed to create a stunning and long-lasting look for the bride on her wedding day. Bridal makeup artists .
                                 </p>
                                 <Link href="/events?category=4">
                                 <span className="text-blue-900    rounded mt-4 inline-block ">
@@ -75,8 +75,8 @@ const CategoriesofEvent = () => {
                         <div className="bg-white border rounded-lg overflow-hidden drop-shadow-xl">
                             <img src="https://images.unsplash.com/photo-1523580494863-6f3031224c94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="Category 5" className="w-full" />
                             <div className="p-4">
-                                <h3 className="text-lg font-bold mb-2 text-bold">Catering Events </h3>
-                                <p className="text-sm mb-3 font-serif">Thank you for considering our catering services for your upcoming event at the decor and auditorium. We would be delighted to help you plan and  impresse your guest  and other people in the audiotorium and other events</p>
+                                <h3 className="text-lg font-bold mb-2 text-bold">Body Treatment </h3>
+                                <p className="text-sm mb-3 font-serif">Body treatments are a popular category of services offered at beauty parlours, focusing on the pampering and rejuvenation of the body.Massages are a staple body treatment offered at beauty parlours. Skilled massage therapists use various techniques to relax the body, relieve muscle tension.</p>
                                
                             </div>
                         </div>

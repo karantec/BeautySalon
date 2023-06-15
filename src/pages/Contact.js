@@ -7,7 +7,7 @@ export default function EventBooking() {
     const form = useRef();
     const sendEmail = (e) => {
         e.preventDefault();
-     emailjs.sendForm('service_n0xz6jq', 'template_hl6is0g', form.current, 'lLapA1Gdu62h7SR47')
+     emailjs.sendForm('service_2ektinl', 'template_j7zmi9i', form.current, 'lLapA1Gdu62h7SR47')
         .then((result) => {
             console.log(result.text);
            
